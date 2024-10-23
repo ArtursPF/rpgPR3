@@ -1,9 +1,9 @@
 package rpg.enu;
 
 public enum EnemyType {
-    OSO,
-    CABALLERO,
-    DRAGON,
-    ZOMBIE,
-    VAMPIRE;
+    Dragon,
+    Globin,
+    Slime,
+    Bear,
+    wolfman;
 }

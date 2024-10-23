@@ -1,4 +1,9 @@
 package rpg.entities.enemies.enemyTypeB;
 
-public class EnemyB {
+import rpg.entities.enemies.Enemy;
+
+public class EnemyB extends Enemy {
+    public EnemyB() {
+        super("Globin");
+    }
 }
