@@ -4,6 +4,6 @@ import rpg.entities.enemies.Enemy;
 
 public class EnemyA extends Enemy {
     public EnemyA() {
-        super("OSO");
+        super("Dragon");
     }
 }

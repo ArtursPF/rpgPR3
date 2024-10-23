@@ -1,6 +1,5 @@
 package rpg.enu;
 
 public enum Stats {
-    ATTACK, DEFENSE, HP, MAX_HP, SPEED
-
+    HP, MAX_HP, ATTACK, DEFENSE, SPEED
 }
